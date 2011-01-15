@@ -1,6 +1,8 @@
 README
 ======
 
+This is a mavenized version of postmark-java.
+
 This library allows you to leverage the Postmark REST API to send emails.
 
 Example usage:
